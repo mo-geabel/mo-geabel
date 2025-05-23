@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed Geabel
-- 👀 I’m interested in backend learning
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🧑🏽‍💻 I’m Full-Stack Developer
+- 🌱 I’m currently Focusing on ML field
+- 💞️ I’m looking to collaborate on ML&AI projects
 - 📫 You can reach me by my E-mail address which is Mohamedgabel1@gmail.com
 
 <!---
