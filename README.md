@@ -17,7 +17,10 @@ I am a 3rd-year student at **Sakarya University**  graduating in 2027. I focus o
 
 
 ### 📫 Let's Collaborate!
-I am open to **Internships**, **Research**, and **AI/Web collaborations**.
-**Email:** [mohamedgabell@gmail.com](mailto:mohamedgabell@gmail.com)
-**Portfolio:** [mohammedgeabel.engineer](https://mohammedgeabel.engineer)
-**LinkedIn:** [linkedin.com/in/MohammedGeabel](https://linkedin.com/in/MohammedGeabel)
+
+I’m open to **Internships**, **Research Opportunities**, and **AI / Web Development collaborations**.
+
+- 📧 **Email:** [mohamedgabell@gmail.com](mailto:mohamedgabell@gmail.com)  
+- 🌐 **Portfolio:** [mohammedgeabel.engineer](https://mohammedgeabel.engineer)  
+- 💼 **LinkedIn:** [linkedin.com/in/MohammedGeabel](https://linkedin.com/in/MohammedGeabel)
+``
